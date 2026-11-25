@@ -4,4 +4,7 @@
 Project title: Ordering system for small shop
 This is a respo collab for a simple python ordering system for a small shop
 Developer A: Romeo Paulo G Famaran
-Developer B: Joshua Nathaniel Vergara
+Developer B: Joshua Nathaniel 
+
+Made the ordering system and price calculation
+-Romeo Paulo
