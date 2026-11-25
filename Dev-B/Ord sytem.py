@@ -76,7 +76,6 @@ def display_receipt(orders):
     print(f"{'TOTAL':<29}{total:>10.2f}")
 
 
-
 def main():
     print("Welcome to the Ordering System")
     orders = take_orders()
